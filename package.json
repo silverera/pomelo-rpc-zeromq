@@ -1,0 +1,11 @@
+{
+	"name": "pomelo-rpc-zeromq",
+	"version": "0.0.8",
+	"dependencies": {
+		"crc": "3.8.0",
+		"pomelo-loader": "0.0.7",
+		"pomelo-logger": "git://github.com/silverera/pomelo-logger.git#v0.1.8",
+		"node-uuid": "1.4.8",
+		"zmq": "git://github.com/silverera/zmq.git"
+	}
+}
